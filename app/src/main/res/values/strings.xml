@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MyAppiada</string>
     <string name="label_joker_hint">Aqui vai uma piada</string>
+    <string name="label_button_joker">Manda mais uma</string>
 
     <string name="joker_one">Por que a aranha é o animal mais carente do mundo?\nPorque ela é um aracneedyou.</string>
     <string name="joker_two">Por que o pinheiro não se perde na floresta?\nPorque ele tem uma pinha.</string>
